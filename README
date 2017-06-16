@@ -1,1 +1,33 @@
-Проект "Успешные сироты" инклюзивной командой Everland в рамках участия в хакатоне по IT-проектам для решения проблем социальной адаптации выпускников детских домов с помощью интернет-технологий Интерн@ Теплицы социальных технологий. 
+<h1>Проект "Успешные сироты" инклюзивной командой Everland в рамках участия в хакатоне по IT-проектам для решения проблем социальной адаптации выпускников детских домов с помощью интернет-технологий Интерн@ Теплицы социальных технологий. </h1>
+
+Сайт: http://www.uspeshnye-siroty.ru
+
+Основная задача проекта: содействие в социализации выпускников сиротских учреждений.
+
+Список использованных плагинов:
+Для визуального редактирования и стилистического формирования страниц и записей сайта
+
+- WPBakery Visual Composer
+https://codecanyon.net/item/visual-composer-page-builder-for-wordpress/242431
+
+- Ultimate Addons for Visual Composer
+https://codecanyon.net/item/ultimate-addons-for-visual-composer/6892199
+
+Для функционала и реализации работы навигатора:
+
+- Плагин DW Question Answer реализует систему "Вопросов и Ответов"  
+https://codecanyon.net/item/dw-question-answer-pro-wordpress-plugin/15057949?s_rank=1
+
+- плагин Ajax Search Pro реализует поисковую систему информации по темам (вопросам и ответам на них, которые уже были заданы ранее)
+https://codecanyon.net/item/ajax-search-pro-for-wordpress-live-search-plugin/3357410?s_rank=2 
+
+- бесплатный плагин uLogin предназначен для авторизации пользователей через социальные сети https://ru.wordpress.org/plugins/ulogin/
+
+- бесплатный плагин Лейка для фандрайзинга - приёма пожертвований от пользователей https://ru.wordpress.org/plugins/leyka/
+
+- плагин All In One SEO Pack – для настройки SEO
+https://ru.wordpress.org/plugins/all-in-one-seo-pack/
+
+- бесплатный плагин All In One WP Security для защиты и безопасности сайта https://ru.wordpress.org/plugins/all-in-one-wp-security-and-firewall/
+
+также средствами плагина Visual Composer реализован фильтр-поиск для помогающих организаций (для сортировки информации)
